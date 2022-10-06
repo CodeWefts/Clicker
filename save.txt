@@ -1,0 +1,8 @@
+Candies: 263
+Lollipops: 42
+CandiesEaten: 15
+CandiesThrown: 1132
+LollipopHidden: 0
+eatAllUnlocked: 0
+throwUnlocked: 0
+village: 0
